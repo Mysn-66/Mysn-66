@@ -3,8 +3,8 @@
 
 
 <p><em>
-Computer Science Student 👩‍💻 <br>
-Passionate about AI, Programming & Problem Solving 🚀 <br>
+Computer Science Student  <br>
+Passionate about AI, Programming & Problem Solving  <br>
 Building projects and improving my skills every day ✨
 </em></p>
 
